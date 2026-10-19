@@ -1,0 +1,50 @@
+{
+  "h1": "Calculadora de Grasa Corporal",
+  "h1Accent": "Método Marina EE.UU.",
+  "intro": "Estima tu porcentaje de grasa corporal usando el método de circunferencia de la Marina de los EE.UU. Solo necesitas una cinta métrica.",
+  "form": {
+    "sex": "Sexo",
+    "male": "Masculino",
+    "female": "Femenino",
+    "height": "Estatura",
+    "neck": "Circunferencia del cuello",
+    "waist": "Circunferencia de la cintura",
+    "hip": "Circunferencia de la cadera (solo mujeres)",
+    "calculate": "Calcular Grasa Corporal",
+    "reset": "Reiniciar"
+  },
+  "result": {
+    "bodyfat": "Grasa Corporal",
+    "fatMass": "Masa Grasa",
+    "leanMass": "Masa Magra",
+    "category": "Categoría"
+  },
+  "ranges": {
+    "title": "Categorías de Grasa Corporal (ACE)",
+    "essential": "Grasa esencial: 2–5% (hombres) / 10–13% (mujeres)",
+    "athlete": "Atletas: 6–13% (hombres) / 14–20% (mujeres)",
+    "fitness": "Fitness: 14–17% (hombres) / 21–24% (mujeres)",
+    "acceptable": "Aceptable: 18–24% (hombres) / 25–31% (mujeres)",
+    "obese": "Obesidad: 25%+ (hombres) / 32%+ (mujeres)"
+  },
+  "formula": {
+    "title": "Fórmula del Método de la Marina",
+    "male": "Hombres: 495 ÷ (1,0324 − 0,19077 × log10(cintura − cuello) + 0,15456 × log10(estatura)) − 450",
+    "female": "Mujeres: 495 ÷ (1,29579 − 0,35004 × log10(cintura + cadera − cuello) + 0,22100 × log10(estatura)) − 450",
+    "explanation": "El método de la Marina usa mediciones de circunferencia para estimar la densidad corporal, que luego se convierte a porcentaje de grasa."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿Qué tan preciso es este método?",
+    "a1": "El método tiene un margen de error de aproximadamente ±3–4% comparado con los escáneres DEXA.",
+    "q2": "¿Dónde debo medir la cintura?",
+    "a2": "Mide a la altura del ombligo, manteniendo la cinta paralela al suelo.",
+    "q3": "¿Qué porcentaje de grasa corporal es saludable?",
+    "a3": "Los rangos aceptables son aproximadamente 18–24% para hombres y 25–31% para mujeres.",
+    "q4": "¿Puedo reducir la grasa sin perder músculo?",
+    "a4": "Sí. Un déficit calórico moderado con suficiente proteína y entrenamiento de resistencia preserva la masa magra.",
+    "q5": "¿Por qué mi grasa corporal difiere de mi categoría IMC?",
+    "a5": "El IMC no mide composición corporal. Personas musculosas pueden tener alto IMC pero baja grasa corporal."
+  },
+  "related": { "title": "Calculadoras de Fitness Relacionadas" }
+}

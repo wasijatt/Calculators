@@ -1,0 +1,45 @@
+{
+  "h1": "Protein Intake Calculator",
+  "h1Accent": "Daily Protein Needs",
+  "intro": "Find your optimal daily protein intake based on your body weight, activity level and fitness goal — whether you want to lose fat, maintain or build muscle.",
+  "form": {
+    "weight": "Body Weight",
+    "activity": "Activity Level",
+    "sedentary": "Sedentary",
+    "light": "Light exercise",
+    "moderate": "Moderate exercise",
+    "active": "Heavy exercise",
+    "athlete": "Athlete / endurance sport",
+    "goal": "Goal",
+    "lose": "Fat loss",
+    "maintain": "Maintenance",
+    "gain": "Muscle gain",
+    "calculate": "Calculate Protein",
+    "reset": "Reset"
+  },
+  "result": {
+    "min": "Minimum",
+    "max": "Maximum",
+    "grams": "g / day",
+    "perKg": "g per kg body weight",
+    "tip": "Spread your protein across 3–5 meals for optimal muscle protein synthesis."
+  },
+  "formula": {
+    "title": "How Protein Is Calculated",
+    "explanation": "Protein recommendations are expressed in grams per kilogram of body weight. Ranges are based on ISSN (International Society of Sports Nutrition) guidelines: 1.4–2.0 g/kg for active individuals, up to 2.2 g/kg for muscle gain."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How much protein do I need per day?",
+    "a1": "The RDA is 0.8 g/kg, but for active adults and those seeking body composition changes, 1.4–2.2 g/kg is recommended by leading sports nutrition bodies.",
+    "q2": "Can I eat too much protein?",
+    "a2": "For healthy adults, high protein intakes up to 2.2 g/kg are well-tolerated. Extremely high intakes are rarely beneficial and may displace other nutrients. Those with kidney disease should consult their doctor.",
+    "q3": "What are the best protein sources?",
+    "a3": "High-quality sources include lean meats, fish, eggs, dairy (Greek yogurt, cottage cheese), legumes and, if needed, protein supplements. Aim for a variety of sources.",
+    "q4": "Does protein timing matter?",
+    "a4": "Distributing protein intake across meals (every 3–4 hours) supports muscle protein synthesis better than consuming it all at once. A pre-sleep protein dose (casein) can also be beneficial.",
+    "q5": "Is plant protein as effective as animal protein?",
+    "a5": "Plant proteins can be equally effective when total intake is adequate and a variety of sources are consumed. Combining legumes, grains and soy provides a complete amino acid profile."
+  },
+  "related": { "title": "Related Fitness Calculators" }
+}

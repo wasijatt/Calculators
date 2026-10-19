@@ -1,0 +1,56 @@
+{
+  "siteName": "CalcPro",
+  "tagline": "Calculadoras gratuitas y rápidas para cada decisión",
+  "nav": {
+    "home": "Inicio",
+    "fitness": "Fitness y Salud",
+    "pregnancy": "Embarazo y Bebé",
+    "finance": "Finanzas",
+    "math": "Matemáticas y Conversión"
+  },
+  "langSwitcher": "Idioma",
+  "unit": {
+    "metric": "Métrico",
+    "imperial": "Imperial"
+  },
+  "footer": {
+    "disclaimer": "Estas calculadoras son solo para fines informativos y no reemplazan el consejo médico profesional.",
+    "categories": "Categorías",
+    "languages": "Idiomas",
+    "rights": "Todos los derechos reservados."
+  },
+  "common": {
+    "calculate": "Calcular",
+    "reset": "Reiniciar",
+    "result": "Tu Resultado",
+    "formula": "Fórmula",
+    "howItWorks": "Cómo Funciona",
+    "faq": "Preguntas Frecuentes",
+    "related": "Calculadoras Relacionadas",
+    "disclaimer": "Aviso Médico",
+    "disclaimerText": "Esta herramienta es solo para fines informativos generales. No sustituye el consejo, diagnóstico ni tratamiento médico profesional. Siempre consulte a un profesional de la salud calificado.",
+    "rangesTable": "Rangos de Referencia",
+    "category": "Categoría",
+    "range": "Rango",
+    "status": "Estado",
+    "backToCategory": "Volver a Calculadoras de Fitness"
+  },
+  "status": {
+    "underweight": "Bajo peso",
+    "healthy": "Saludable",
+    "overweight": "Sobrepeso",
+    "obese": "Obesidad",
+    "low": "Bajo",
+    "normal": "Normal",
+    "high": "Alto",
+    "veryHigh": "Muy alto"
+  },
+  "home": {
+    "hero": "Calcula mejor,",
+    "heroAccent": "vive mejor",
+    "heroSub": "Calculadoras precisas e instantáneas para fitness, salud, finanzas y más — gratis, sin registro.",
+    "popularCalcs": "Calculadoras Populares",
+    "allCategories": "Todas las Categorías",
+    "startCalculating": "Empezar a Calcular"
+  }
+}

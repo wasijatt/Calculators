@@ -1,0 +1,56 @@
+{
+  "siteName": "CalcPro",
+  "tagline": "Free, fast calculators for every decision",
+  "nav": {
+    "home": "Home",
+    "fitness": "Fitness & Health",
+    "pregnancy": "Pregnancy & Baby",
+    "finance": "Finance",
+    "math": "Math & Conversion"
+  },
+  "langSwitcher": "Language",
+  "unit": {
+    "metric": "Metric",
+    "imperial": "Imperial"
+  },
+  "footer": {
+    "disclaimer": "These calculators are for informational purposes only and are not a substitute for professional medical advice.",
+    "categories": "Categories",
+    "languages": "Languages",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "calculate": "Calculate",
+    "reset": "Reset",
+    "result": "Your Result",
+    "formula": "Formula",
+    "howItWorks": "How It Works",
+    "faq": "Frequently Asked Questions",
+    "related": "Related Calculators",
+    "disclaimer": "Medical Disclaimer",
+    "disclaimerText": "This tool is intended for general informational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider.",
+    "rangesTable": "Reference Ranges",
+    "category": "Category",
+    "range": "Range",
+    "status": "Status",
+    "backToCategory": "Back to Fitness Calculators"
+  },
+  "status": {
+    "underweight": "Underweight",
+    "healthy": "Healthy",
+    "overweight": "Overweight",
+    "obese": "Obese",
+    "low": "Low",
+    "normal": "Normal",
+    "high": "High",
+    "veryHigh": "Very High"
+  },
+  "home": {
+    "hero": "Calculate smarter,",
+    "heroAccent": "live better",
+    "heroSub": "Accurate, instant calculators for fitness, health, finance and more — free, no signup required.",
+    "popularCalcs": "Popular Calculators",
+    "allCategories": "All Categories",
+    "startCalculating": "Start Calculating"
+  }
+}

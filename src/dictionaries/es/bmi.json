@@ -1,0 +1,55 @@
+{
+  "h1": "Calculadora de IMC",
+  "h1Accent": "Índice de Masa Corporal",
+  "intro": "Usa nuestra calculadora de IMC gratuita para saber si tu peso está en un rango saludable para tu estatura. Resultados instantáneos con interpretación completa.",
+  "form": {
+    "height": "Estatura",
+    "weight": "Peso",
+    "age": "Edad (opcional)",
+    "sex": "Sexo",
+    "male": "Masculino",
+    "female": "Femenino",
+    "heightCm": "Estatura (cm)",
+    "heightFt": "Pies",
+    "heightIn": "Pulgadas",
+    "weightKg": "Peso (kg)",
+    "weightLb": "Peso (lb)",
+    "calculate": "Calcular IMC",
+    "reset": "Reiniciar"
+  },
+  "result": {
+    "yourBmi": "Tu IMC",
+    "category": "Categoría",
+    "healthy": "Un IMC entre 18,5 y 24,9 se considera saludable.",
+    "tip": "El IMC es una herramienta de detección, no un diagnóstico. La composición corporal, la masa muscular, la edad y la etnia afectan su precisión."
+  },
+  "ranges": {
+    "title": "Rangos de IMC",
+    "underweight": "Menos de 18,5",
+    "healthy": "18,5 – 24,9",
+    "overweight": "25 – 29,9",
+    "obese": "30 o más"
+  },
+  "formula": {
+    "title": "Fórmula del IMC",
+    "metric": "IMC = peso (kg) ÷ estatura (m)²",
+    "imperial": "IMC = 703 × peso (lb) ÷ estatura (pulg)²",
+    "explanation": "El IMC se calcula dividiendo el peso corporal en kilogramos por el cuadrado de la estatura en metros. El resultado es un número adimensional que se usa para clasificar el estado del peso."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿Cuál es un IMC saludable para adultos?",
+    "a1": "Para la mayoría de los adultos, un IMC entre 18,5 y 24,9 se considera saludable. Valores por debajo de 18,5 indican bajo peso, entre 25 y 29,9 sobrepeso, y 30 o más se clasifica como obesidad.",
+    "q2": "¿Es preciso el IMC para todos?",
+    "a2": "El IMC es una herramienta de detección útil a nivel poblacional, pero tiene limitaciones para individuos. No distingue entre masa muscular y grasa, por lo que los deportistas pueden parecer con sobrepeso aunque estén sanos. La edad, el sexo y la etnia también afectan la relación entre el IMC y la grasa corporal.",
+    "q3": "¿Pueden usarlo los niños?",
+    "a3": "Esta calculadora está diseñada para adultos de 18 años en adelante. Para niños y adolescentes, el IMC se interpreta de forma diferente utilizando tablas de percentiles específicos por edad y sexo.",
+    "q4": "¿Cómo puedo bajar mi IMC?",
+    "a4": "Un enfoque sostenible incluye una dieta equilibrada y adecuada en calorías, y actividad física regular. No se recomiendan las dietas de choque. Consulta con un dietista o tu médico para orientación personalizada.",
+    "q5": "¿El IMC es diferente para hombres y mujeres?",
+    "a5": "Se usa la misma escala de IMC para ambos sexos, pero las mujeres generalmente tienen un mayor porcentaje de grasa corporal con el mismo valor de IMC. Algunos médicos ajustan la interpretación en consecuencia."
+  },
+  "related": {
+    "title": "Calculadoras de Fitness Relacionadas"
+  }
+}

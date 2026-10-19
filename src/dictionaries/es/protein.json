@@ -1,0 +1,45 @@
+{
+  "h1": "Calculadora de Proteínas",
+  "h1Accent": "Ingesta Diaria",
+  "intro": "Descubre tu ingesta óptima de proteínas según tu peso, nivel de actividad y objetivo de fitness.",
+  "form": {
+    "weight": "Peso Corporal",
+    "activity": "Nivel de Actividad",
+    "sedentary": "Sedentario",
+    "light": "Ejercicio ligero",
+    "moderate": "Ejercicio moderado",
+    "active": "Ejercicio intenso",
+    "athlete": "Atleta / deporte de resistencia",
+    "goal": "Objetivo",
+    "lose": "Pérdida de grasa",
+    "maintain": "Mantenimiento",
+    "gain": "Ganancia muscular",
+    "calculate": "Calcular Proteínas",
+    "reset": "Reiniciar"
+  },
+  "result": {
+    "min": "Mínimo",
+    "max": "Máximo",
+    "grams": "g / día",
+    "perKg": "g por kg de peso corporal",
+    "tip": "Distribuye tu proteína en 3–5 comidas para una síntesis proteica muscular óptima."
+  },
+  "formula": {
+    "title": "Cómo se Calcula la Proteína",
+    "explanation": "Las recomendaciones se expresan en gramos por kilogramo de peso corporal, según las pautas de la ISSN: 1,4–2,0 g/kg para personas activas, hasta 2,2 g/kg para ganar músculo."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿Cuánta proteína necesito al día?",
+    "a1": "La recomendación de la OMS es 0,8 g/kg, pero para adultos activos se recomiendan 1,4–2,2 g/kg.",
+    "q2": "¿Puedo consumir demasiada proteína?",
+    "a2": "Para adultos sanos, ingestas de hasta 2,2 g/kg son bien toleradas. Las ingestas extremadamente altas rara vez son beneficiosas.",
+    "q3": "¿Cuáles son las mejores fuentes de proteína?",
+    "a3": "Carnes magras, pescado, huevos, lácteos, legumbres y suplementos de proteína si es necesario.",
+    "q4": "¿Importa el momento de consumo de proteínas?",
+    "a4": "Distribuir la ingesta de proteínas en las comidas favorece la síntesis proteica muscular mejor que consumirla toda de una vez.",
+    "q5": "¿Es la proteína vegetal igual de efectiva?",
+    "a5": "Sí, cuando la ingesta total es adecuada y se consume una variedad de fuentes vegetales."
+  },
+  "related": { "title": "Calculadoras de Fitness Relacionadas" }
+}

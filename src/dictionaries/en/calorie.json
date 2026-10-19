@@ -1,0 +1,52 @@
+{
+  "h1": "Calorie Calculator",
+  "h1Accent": "BMR & TDEE",
+  "intro": "Calculate your Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE) to find the right calorie target for weight loss, maintenance or muscle gain.",
+  "form": {
+    "age": "Age",
+    "sex": "Sex",
+    "male": "Male",
+    "female": "Female",
+    "height": "Height",
+    "weight": "Weight",
+    "activity": "Activity Level",
+    "sedentary": "Sedentary (little or no exercise)",
+    "light": "Lightly active (1–3 days/week)",
+    "moderate": "Moderately active (3–5 days/week)",
+    "active": "Very active (6–7 days/week)",
+    "veryActive": "Super active (physical job or 2× training)",
+    "goal": "Goal",
+    "lose": "Lose weight",
+    "maintain": "Maintain weight",
+    "gain": "Gain muscle",
+    "calculate": "Calculate Calories",
+    "reset": "Reset"
+  },
+  "result": {
+    "bmr": "Basal Metabolic Rate (BMR)",
+    "tdee": "Total Daily Energy Expenditure (TDEE)",
+    "target": "Daily Calorie Target",
+    "deficit": "For weight loss we suggest a 500 kcal/day deficit.",
+    "surplus": "For muscle gain we suggest a 300 kcal/day surplus."
+  },
+  "formula": {
+    "title": "Mifflin-St Jeor Formula",
+    "male": "Men: BMR = 10 × weight(kg) + 6.25 × height(cm) − 5 × age + 5",
+    "female": "Women: BMR = 10 × weight(kg) + 6.25 × height(cm) − 5 × age − 161",
+    "explanation": "We use the Mifflin-St Jeor equation, considered the most accurate for most adults. TDEE = BMR × Activity Multiplier."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What is BMR?",
+    "a1": "Basal Metabolic Rate is the number of calories your body burns at complete rest to maintain vital functions like breathing, circulation and cell repair.",
+    "q2": "What is TDEE?",
+    "a2": "Total Daily Energy Expenditure is your BMR multiplied by an activity factor. It represents the total calories you burn in a day including exercise.",
+    "q3": "How accurate is this calculator?",
+    "a3": "The Mifflin-St Jeor equation is within ±10% for most people. Individual metabolic rates vary due to genetics, hormones and muscle mass.",
+    "q4": "How many calories should I eat to lose weight?",
+    "a4": "A deficit of 500 kcal/day typically leads to approximately 0.5 kg of fat loss per week. Avoid going below 1200 kcal/day (women) or 1500 kcal/day (men) without medical supervision.",
+    "q5": "Should I eat back exercise calories?",
+    "a5": "If you use the TDEE method, your exercise is already accounted for. If you use BMR as your base and log workouts separately, you may eat back a portion of those calories."
+  },
+  "related": { "title": "Related Fitness Calculators" }
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Calculadora de Consumo de Agua",
+  "h1Accent": "Hidratación Diaria",
+  "intro": "Descubre exactamente cuánta agua deberías beber cada día según tu peso, nivel de actividad y clima.",
+  "form": {
+    "weight": "Peso Corporal",
+    "activity": "Nivel de Actividad",
+    "sedentary": "Sedentario",
+    "light": "Ejercicio ligero",
+    "moderate": "Ejercicio moderado",
+    "active": "Ejercicio intenso",
+    "veryActive": "Muy activo / atleta",
+    "climate": "Clima",
+    "temperate": "Templado",
+    "hot": "Cálido / húmedo",
+    "calculate": "Calcular Agua",
+    "reset": "Reiniciar"
+  },
+  "result": {
+    "daily": "Consumo Diario de Agua",
+    "liters": "litros",
+    "glasses": "vasos (250 ml)",
+    "tip": "Bebe más si sudas mucho, estás amamantando o sientes sed."
+  },
+  "formula": {
+    "title": "Cómo se Calcula el Consumo Diario",
+    "explanation": "Recomendación base: 35 ml por kg de peso corporal. Los multiplicadores de actividad y clima aumentan esta cantidad."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿Cuánta agua debo beber al día?",
+    "a1": "Las pautas generales sugieren unos 2–3 litros por día para adultos, pero las necesidades individuales varían.",
+    "q2": "¿El café cuenta como ingesta de agua?",
+    "a2": "Sí. A pesar de sus efectos diuréticos leves, las bebidas con cafeína contribuyen a la ingesta de líquidos.",
+    "q3": "¿Puedo beber demasiada agua?",
+    "a3": "La hipernatremia es rara pero posible, principalmente en atletas de resistencia. En la vida diaria normal, los riñones sanos manejan el exceso eficientemente.",
+    "q4": "¿Cuáles son las señales de deshidratación?",
+    "a4": "Sed, orina oscura, dolor de cabeza, fatiga y menor concentración son señales leves de deshidratación.",
+    "q5": "¿Las frutas y verduras cuentan?",
+    "a5": "Sí. Alrededor del 20% de la ingesta diaria de agua proviene de los alimentos."
+  },
+  "related": { "title": "Calculadoras de Fitness Relacionadas" }
+}

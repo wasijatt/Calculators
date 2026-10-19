@@ -1,0 +1,43 @@
+{
+  "h1": "Water Intake Calculator",
+  "h1Accent": "Daily Hydration",
+  "intro": "Find out exactly how much water you should drink each day based on your weight, activity level and climate. Stay optimally hydrated.",
+  "form": {
+    "weight": "Body Weight",
+    "activity": "Activity Level",
+    "sedentary": "Sedentary",
+    "light": "Light exercise",
+    "moderate": "Moderate exercise",
+    "active": "Heavy exercise",
+    "veryActive": "Very active / athlete",
+    "climate": "Climate",
+    "temperate": "Temperate",
+    "hot": "Hot / humid",
+    "calculate": "Calculate Water Intake",
+    "reset": "Reset"
+  },
+  "result": {
+    "daily": "Daily Water Intake",
+    "liters": "litres",
+    "glasses": "glasses (250 ml)",
+    "tip": "Drink more if you're sweating heavily, breastfeeding, or feel thirsty."
+  },
+  "formula": {
+    "title": "How Daily Water Intake Is Calculated",
+    "explanation": "Base recommendation: 35 ml per kg of body weight. Activity and climate multipliers increase this. Hot climates add approximately 500 ml. Heavy exercise adds 500–1000 ml on workout days."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How much water should I drink per day?",
+    "a1": "General guidelines suggest about 2–3 litres per day for adults, but individual needs vary widely based on body size, activity, climate and diet.",
+    "q2": "Does coffee count toward daily water intake?",
+    "a2": "Yes. Despite mild diuretic effects, caffeinated beverages still contribute to overall fluid intake. However, plain water is the best choice for hydration.",
+    "q3": "Can I drink too much water?",
+    "a3": "Overhydration (hyponatremia) is rare but possible, mainly in endurance athletes who drink large volumes of plain water without replacing electrolytes. In normal daily life, healthy kidneys handle excess water efficiently.",
+    "q4": "What are signs of dehydration?",
+    "a4": "Mild dehydration signs include thirst, dark urine, headache, fatigue and reduced concentration. Severe dehydration requires medical attention.",
+    "q5": "Does eating fruits and vegetables count?",
+    "a5": "Yes. Around 20% of daily water intake comes from food. Fruits and vegetables with high water content (cucumber, watermelon, lettuce) contribute significantly."
+  },
+  "related": { "title": "Related Fitness Calculators" }
+}

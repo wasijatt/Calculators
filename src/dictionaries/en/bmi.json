@@ -1,0 +1,55 @@
+{
+  "h1": "BMI Calculator",
+  "h1Accent": "Body Mass Index",
+  "intro": "Use our free BMI calculator to find out whether your weight is in a healthy range for your height. Instant results with full interpretation.",
+  "form": {
+    "height": "Height",
+    "weight": "Weight",
+    "age": "Age (optional)",
+    "sex": "Sex",
+    "male": "Male",
+    "female": "Female",
+    "heightCm": "Height (cm)",
+    "heightFt": "Feet",
+    "heightIn": "Inches",
+    "weightKg": "Weight (kg)",
+    "weightLb": "Weight (lb)",
+    "calculate": "Calculate BMI",
+    "reset": "Reset"
+  },
+  "result": {
+    "yourBmi": "Your BMI",
+    "category": "Category",
+    "healthy": "A BMI between 18.5 and 24.9 is considered healthy.",
+    "tip": "BMI is a screening tool, not a diagnostic measure. Body composition, muscle mass, age and ethnicity affect its accuracy."
+  },
+  "ranges": {
+    "title": "BMI Ranges",
+    "underweight": "Below 18.5",
+    "healthy": "18.5 – 24.9",
+    "overweight": "25 – 29.9",
+    "obese": "30 and above"
+  },
+  "formula": {
+    "title": "BMI Formula",
+    "metric": "BMI = weight (kg) ÷ height (m)²",
+    "imperial": "BMI = 703 × weight (lb) ÷ height (in)²",
+    "explanation": "BMI is calculated by dividing body weight in kilograms by the square of height in meters. The result is a dimensionless number used to classify weight status."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What is a healthy BMI for adults?",
+    "a1": "For most adults, a BMI between 18.5 and 24.9 is considered healthy. Values below 18.5 indicate underweight, 25–29.9 overweight, and 30 or above is classified as obese.",
+    "q2": "Is BMI accurate for everyone?",
+    "a2": "BMI is a useful population-level screening tool but has limitations for individuals. It does not distinguish between muscle and fat mass, so athletes may appear overweight despite being healthy. Age, sex and ethnicity also affect the relationship between BMI and body fat.",
+    "q3": "Can children use this BMI calculator?",
+    "a3": "This calculator is designed for adults 18 and older. For children and teenagers, BMI is interpreted differently using age- and sex-specific percentile charts.",
+    "q4": "How can I lower my BMI?",
+    "a4": "A sustainable approach includes a balanced, calorie-appropriate diet and regular physical activity. Crash diets are not recommended. Speak with a registered dietitian or your doctor for personalised guidance.",
+    "q5": "Does BMI differ between men and women?",
+    "a5": "The same BMI scale is used for both men and women, but women generally carry a higher percentage of body fat at the same BMI value. Some clinicians adjust interpretation accordingly."
+  },
+  "related": {
+    "title": "Related Fitness Calculators"
+  }
+}
